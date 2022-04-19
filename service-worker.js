@@ -33,6 +33,7 @@
 // https://github.com/googlechrome/sw-precache/blob/master/demo/app/js/service-worker-registration.js
 // for an example of how you can register this script and handle various service worker events.
 
+
 /* eslint-env worker, serviceworker */
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 "use strict";
